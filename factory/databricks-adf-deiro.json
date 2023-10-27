@@ -1,0 +1,9 @@
+{
+	"name": "databricks-adf-deiro",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "491d1eb3-a1f0-4b1c-8315-231b41ed64bc",
+		"tenantId": "893deab8-867b-4b2d-a0ce-fc934bca5fe1"
+	}
+}
